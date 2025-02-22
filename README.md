@@ -32,4 +32,23 @@
   - This helps to keep data updated and control access across various tools.
 
 
+## 2. Defining Functional & System Requirement
+
+### Functional Requirement
+- **Collect Data from Web:**
+  - As a developer, utilize automated scripts to collect publicly available training data.
+  - Set up APIs to collect and filter questions separately from answers.
+  
+- **Organize Data:**
+  - Utilize NLP methodologies to categorize questions by topic difficulty.
+  - This helps store filtered questions in an organized manner.
+  
+- **Reduce Bias:**
+  - Create an algorithm to search and remove bias in training data.
+  - This ensures representation is balanced.
+  
+- **Store & Manage Data:**
+  - Use SQL/NoSQL databases to store organized data.
+  - Mention tags to ensure data is easily searchable.
+
 
