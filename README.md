@@ -139,3 +139,17 @@
 - The system must prefer APIs to collect data whenever possible.
 - The system must monitor data protection laws regularly.
 - The system must generate dashboards to view data insights and model performance.
+
+
+## 7. Preliminary Tasks
+- Identifying requirements.
+- Selecting the technology stack.
+- Creating a basic web data extractor.
+- Setting up the data processing system.
+- Researching bias detection procedures.
+- Analyzing security requirements.
+- Scheduling the development timeline.
+- Designing the database layout.
+- Setting up real-time management.
+- Automating data validation.
+- Establishing the user access control system.
