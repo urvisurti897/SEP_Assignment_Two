@@ -51,4 +51,18 @@
   - Use SQL/NoSQL databases to store organized data.
   - Mention tags to ensure data is easily searchable.
 
+### System Requirement
+- **Handling Data:**
+  - The system should handle the rise in amounts of data efficiently.
+  
+- **Security & Rules:**
+  - The system should observe laws of data protection such as GDPR, LGPD, CCPA, PDPA, and POPIA.
+  - Implement secure authentication techniques for easy access to data.
 
+- **Performance:**
+  - The system should ensure quicker extraction of data.
+  - This helps prevent the risk of IP bans and captchas.
+  
+- **Accessibility:**
+  - The system should offer a user-friendly interface.
+  - This helps developers to handle and access data easily.
