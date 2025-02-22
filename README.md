@@ -118,3 +118,15 @@
 - Handle failed responses or requests and retry efficiently.
 - Develop modules to search and fix inconsistencies.
 - Track records of where data comes from, how it's collected, and how it's checked.
+
+
+## 6. Assumptions
+
+### Functional Requirement Assumptions
+- AI models require an organized dataset for categorizing questions.
+- Bias reduction must apply while data is processed.
+- Developers require a user-friendly interface to access training modules.
+- Validating data must demonstrate replication and defects.
+- AI models require tracking of updated data patterns.
+- Apply defect handling modules to manage failed issues.
+- Schedule data updates at regular intervals to track accurate data.
