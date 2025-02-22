@@ -130,3 +130,12 @@
 - AI models require tracking of updated data patterns.
 - Apply defect handling modules to manage failed issues.
 - Schedule data updates at regular intervals to track accurate data.
+
+### System Requirement Assumptions
+- The system must apply crucial AI and data protection laws.
+- The system must use real-time tracking of data activities.
+- The system must access sensitive data, which can be controlled by specified roles.
+- The system must use expandable storage to manage large datasets.
+- The system must prefer APIs to collect data whenever possible.
+- The system must monitor data protection laws regularly.
+- The system must generate dashboards to view data insights and model performance.
