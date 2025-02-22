@@ -66,3 +66,18 @@
 - **Accessibility:**
   - The system should offer a user-friendly interface.
   - This helps developers to handle and access data easily.
+
+
+## 3. Questions for Functional & System Requirement
+
+### Functional Requirement Questions
+- Which level of permission should be granted to developers for filtering data?
+- Which machine learning models could help search for bias and accurate data?
+- How should the system manage replicated or additional data?
+- Should the system verify biased data once received?
+- How should the system monitor sensitive data?
+- Which tools should be used by developers to collect and arrange data?
+- How should developers ensure the system manages large data?
+- How should developers trace changes in data?
+- How should developers verify that the system detects bias efficiently?
+- How should developers manage the collection of undesirable data?
