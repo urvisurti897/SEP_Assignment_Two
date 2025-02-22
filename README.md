@@ -81,3 +81,14 @@
 - How should developers trace changes in data?
 - How should developers verify that the system detects bias efficiently?
 - How should developers manage the collection of undesirable data?
+
+### System Requirement Questions
+- How should the system arrange categories for static or dynamic questions?
+- Which procedures should the system use to search for bias and accurate data?
+- From where should the system collect any legitimate data problems?
+- Which database should the system use for storing and searching data easily?
+- How should the system collect large amounts of data?
+- Which procedures should the system have to link APIs or other services for data collection?
+- How should the system manage misplaced data?
+- How should the system enhance data accuracy?
+- How should the system fix errors while collecting data?
